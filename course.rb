@@ -1,0 +1,4 @@
+class Cour:scale => 
+    
+
+end
